@@ -76267,7 +76267,7 @@ $1(a){return $.asa().$1$0(t.gh)},
 $S:454}
 A.Iw.prototype={
 K(a){var s=null,r=a.S(t.w).f,q=t.p
-return A.lq(A.a([A.cd(s,A.kr(A.a([new A.c_(B.np,A.cd(s,A.atG(new A.q5("logo.png")),s,s,s,50,s,s,100),s),A.kr(A.a([new A.oi("Home",s),B.lC,new A.oi("Movies",s),B.lC,new A.oi("Series",s),B.lC,new A.oi("Popular",s)],q),B.as,B.Gb,B.ag)],q),B.as,B.u4,B.ag),B.zF,s,s,r.a.b*0.095,s,s,s),A.cd(s,A.lq(A.a([A.kr(A.a([new A.Nv(s),new A.M2(s)],q),B.as,B.eR,B.ag)],q),B.as,B.aV,B.ag),B.hb,s,s,s,s,s,1/0),A.wZ(A.cd(s,new A.Iy(s),B.hb,s,s,s,s,s,s))],q),B.as,B.aV,B.ag)}}
+return A.lq(A.a([A.cd(s,A.kr(A.a([new A.c_(B.np,A.cd(s,A.atG(new A.q5("assets/logo.png")),s,s,s,50,s,s,100),s),A.kr(A.a([new A.oi("Home",s),B.lC,new A.oi("Movies",s),B.lC,new A.oi("Series",s),B.lC,new A.oi("Popular",s)],q),B.as,B.Gb,B.ag)],q),B.as,B.u4,B.ag),B.zF,s,s,r.a.b*0.095,s,s,s),A.cd(s,A.lq(A.a([A.kr(A.a([new A.Nv(s),new A.M2(s)],q),B.as,B.eR,B.ag)],q),B.as,B.aV,B.ag),B.hb,s,s,s,s,s,1/0),A.wZ(A.cd(s,new A.Iy(s),B.hb,s,s,s,s,s,s))],q),B.as,B.aV,B.ag)}}
 A.Ix.prototype={
 K(a){var s=null,r=4280823861,q=A.eU(s,20,s),p=a.S(t.w).f,o=t.p
 return A.lq(A.a([q,new A.c_(B.B9,A.cd(s,A.kr(A.a([new A.Nw(s),new A.M3(s)],o),B.bO,B.eR,B.ag),new A.F(r),s,s,p.a.b*0.05,s,s,s),s),A.eU(s,s,20),A.wZ(A.cd(s,new A.Iz(s),new A.F(r),s,s,s,s,s,s))],o),B.as,B.aV,B.ag)}}
